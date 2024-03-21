@@ -1,0 +1,5 @@
+
+> @publish-studio/docs@0.0.1 lint /Users/rakesh/workspace/personal/projects/publish-studio/apps/docs
+> next lint
+
+✔ No ESLint warnings or errors
