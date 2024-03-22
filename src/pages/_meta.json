@@ -1,4 +1,10 @@
 {
-    "index": "Introduction",
-    "connections": "Connections"
+  "index": "Introduction",
+  "connections": "Connections",
+  "dashboard": {
+    "title": "Go to Dashboard",
+    "type": "page",
+    "href": "https://app.publishstudio.one",
+    "newWindow": true
+  }
 }

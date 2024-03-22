@@ -15,6 +15,10 @@ const config: DocsThemeConfig = {
       className="rounded-md drop-shadow-md"
     />
   ),
+  project: {
+    link: "https://github.com/publishstudio/docs",
+  },
+  docsRepositoryBase: "https://github.com/publishstudio/docs",
   useNextSeoProps() {
     const { asPath } = useRouter();
     if (asPath !== "/") {
@@ -87,12 +91,6 @@ const config: DocsThemeConfig = {
   },
   primaryHue: 0,
   primarySaturation: 79,
-  editLink: {
-    component: null,
-  },
-  feedback: {
-    content: null,
-  },
   footer: {
     text: (
       <span>
