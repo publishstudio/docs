@@ -1,6 +1,12 @@
 {
   "index": "Introduction",
   "connections": "Connections",
+  "bugReport": {
+    "title": "Report a Bug",
+    "type": "page",
+    "href": "https://publishstudio.sg.larksuite.com/share/base/form/shrlgfAEQaMwqPeZ9Mbb5kXSNAe",
+    "newWindow": true
+  },
   "dashboard": {
     "title": "Go to Dashboard",
     "type": "page",
